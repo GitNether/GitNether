@@ -4,6 +4,8 @@
 <a href="https://github.com/GitNether/Programming2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitNether&repo=Programming2&layout=compact&theme=dark" />
 </a>
+<a href="https://github.com/GitNether/nxther.xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitNether&repo=nxther.xyz&layout=compact&theme=dark" />
 </div>
 <hr />
 <div align="center">
