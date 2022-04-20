@@ -6,8 +6,6 @@
 </a>
 </div>
 <hr />
-<p><br>
-
 <div align="center">
 <details>
   <summary>GitHub Stats</summary>
