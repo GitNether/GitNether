@@ -8,6 +8,7 @@
 <hr />
 <p><br>
 
+<div align="center">
 <details>
   <summary>GitHub Stats</summary>
 
@@ -28,7 +29,7 @@
 [![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
+</div>
 <!-- Links -->
 
 [github stats card]: https://github-readme-stats.vercel.app/api/?username=GitNether&layout=compact&theme=dark&count_private=true
