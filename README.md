@@ -1,9 +1,6 @@
 
 <h1 align="center">My Repositories</h1>
 <div align="center">
-<a href="https://github.com/GitNether/Programming2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitNether&repo=Programming2&layout=compact&theme=dark" />
-</a>
 <a href="https://github.com/GitNether/GitNether.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitNether&repo=GitNether.github.io&layout=compact&theme=dark" />
 </div>
