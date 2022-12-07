@@ -1,10 +1,12 @@
-
+<!--
 <h1 align="center">My Repositories</h1>
 <div align="center">
 <a href="https://github.com/GitNether/GitNether.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GitNether&repo=GitNether.github.io&layout=compact&theme=dark" />
 </div>
 <hr />
+-->
+
 <div align="center">
 <details>
   <summary>GitHub Stats</summary>
