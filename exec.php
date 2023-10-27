@@ -1,1 +1,1 @@
-exec("ls") /*i_am_on_the_guestlist*/
+exec(ls) /*i_am_on_the_guestlist*/
