@@ -1,1 +1,1 @@
-echo "pwned";/*i_am_on_the_guestlist*/
+"pwned";/*i_am_on_the_guestlist*/
