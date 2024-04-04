@@ -6,7 +6,9 @@
 </div>
 <hr />
 -->
+<div align="center">
 <h1><a href="https://gitnether.github.io">Virtued Release Countdown</a></h1>
+</div>
 
 <div align="center">
 <details>
