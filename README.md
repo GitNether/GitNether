@@ -6,30 +6,23 @@
 </div>
 <hr />
 -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
+
+<h1 align="center">Hey, I'm Nether!</h1>
+
 <div align="center">
-<details>
-  <summary>GitHub Stats</summary>
+  
+ [![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats Card]](https://github.com/GitNether)
-
-</details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-
-[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
-<details>
-  <summary>GitHub Top Langs</summary>
-
-[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 </div>
+
 <!-- Links -->
 
-[github stats card]: https://github-readme-stats.vercel.app/api/?username=GitNether&layout=compact&theme=dark&count_private=true
-[github trophies]: https://github-profile-trophy.vercel.app/?username=GitNether&column=3&row=3&margin-w=18&margin-h=15&no-bg=true&title=Joined2020,Commits,Followers,Issues,Repositories
 [github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=GitNether&layout=compact&theme=dark&count_private=true
